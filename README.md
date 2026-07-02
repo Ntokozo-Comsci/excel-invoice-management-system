@@ -41,10 +41,6 @@ It automates invoice creation, PDF generation, payment tracking, and dashboard r
 
 ![Invoice Form](screenshots/invoice.png)
 
-### Invoice Database
-
-![Invoice Database](screenshots/database-v.png)
-
 ### Search Invoice
 
 ![Search](screenshots/search.png)
